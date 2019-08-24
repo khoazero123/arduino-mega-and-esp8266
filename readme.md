@@ -1,7 +1,7 @@
-ELECTRONICS - ARDUINO MEGA CONTROLLER WITH ESP8266
+Electronics - Arduino Mega Controller with ESP8266
 ==================================================
 
-Note dated 06/30/2017
+Note dated 06/30/2017 [Origin post](http://www.sysengineering.ru/blog/электроника-контроллер-arduino-mega-с-esp8266/ "Electronics - Arduino Mega Controller with ESP8266")
 
 In this article I will talk about the Arduino Mega controller combined with the ESP8266 controller. To test the functionality of the board, a counterfeit copy of this board ordered in China was used, so the photos and tested functionality refer to the copy rather than to the original. The original board can be found on the [RobotDyn website](http://robotdyn.com/ "Robotdyn") .
 
